@@ -1,9 +1,12 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=justinbutler700)](https://github.com/anuraghazra/github-readme-stats)
-
 - 👋 Hi, I’m @JustinButler700
-- 👀 I’m studying Computer Science at CSUSM.
-- 🌱 I’m trying to continue my learning of new languages. Over the next year I hope to learn Kotlin.
+- I’m studying Computer Science at CSUSM.
+- I'm an incoming Software Engineer at Amazon
+- I’m always trying to learn new languages & frameworks!
 - 📫 You can reach me on LinkedIn @ https://www.linkedin.com/in/justbtlr/
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=justinbutler700)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justinbutler700)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 JustinButler700/JustinButler700 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
