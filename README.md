@@ -2,7 +2,7 @@
 <details>
 <summary>:eyes: Show example</summary>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=justinbutler700&show_icons=true&theme=transparent)
+![Anurag's GitHub stats]github-readme-stats-tst7.vercel.app/api?username=justinbutler700&show_icons=true&theme=transparent)
 
 </details>
 
