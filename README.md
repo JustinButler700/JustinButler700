@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JustinButler700
-- I’m studying Computer Science at CSUSM.
+- I'm a new grad from CSUSM.
 - I'm an incoming Software Engineer at Amazon
 - I’m always trying to learn new languages & frameworks!
 
