@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JustinButler700
-- I'm a new grad from CSUSM.
+- I'm a Software Engineer at Amazon
 - I’m always trying to learn new languages & frameworks!
 
 <a href="https://www.linkedin.com/in/justbtlr/" target="_blank"><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
